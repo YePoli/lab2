@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">lab2</string>
+    <string name="Text1">Enter text</string>
+    <string name="button">Count</string>
+    <string-array name="spinner">
+        <item>count words</item>
+        <item>count chars</item>
+        </string-array>
+    <string name="textView">Results: </string>
+    <string name="Warning">Error, string is empty </string>
+</resources>
